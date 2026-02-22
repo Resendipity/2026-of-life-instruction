@@ -20,4 +20,15 @@ Describe my life and reflections in 2026 for review and summary.
    - origin  git@github.com:Resendipity/2026-of-life-instruction.git (push) # 应显示内容
    - cd D:\file\github\2026-of-life-instruction # 修改为所在文件地址
    - git push # 再次推送
+#### 用github的桌面版连接github
+ - 模式和jupyterlab-git大差不差
+ - 编辑器选择pycharm。模式和其他的python项目大差不差
+ - 一个repository就是一个project
+### 文件同步的问题的验证
+ -第一步 (第一步验证成功，jupyterlab可以在其他操作的情况下可以接受同步)
+ -在桌面端修改并提交后jupyterlab里是否可以同步
+ -在jupyterlab里提交之后在桌面端是否可以接收同步
+
+
+
 
