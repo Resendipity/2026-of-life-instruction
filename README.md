@@ -20,4 +20,10 @@ Describe my life and reflections in 2026 for review and summary.
    - origin  git@github.com:Resendipity/2026-of-life-instruction.git (push) # 应显示内容
    - cd D:\file\github\2026-of-life-instruction # 修改为所在文件地址
    - git push # 再次推送
+#### 用github的桌面版连接github
+ - 模式和jupyterlab-git大差不差
+ - 编辑器选择pycharm。模式和其他的python项目大差不差
+ - 一个repository就是一个project
+
+
 
